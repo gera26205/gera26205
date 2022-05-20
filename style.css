@@ -1,0 +1,78 @@
+body {
+margin: 0;
+height: 100%;
+background: url(images/1.jpg);
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+.div1{
+	margin: 0 auto; width: 78%
+
+}
+
+h2{
+ 	position: relative;
+	text-align: center; 
+	background: rgb(138, 137, 140); 
+	border:2mm ridge rgba(255, 255, 255, 0.8);
+	padding: 10px 15px 10px 15px;  
+	margin:20px; 
+	color:#000000;
+	}
+
+
+.div2{
+	margin: 0 auto; width: 60%
+}
+.p1{
+	background: rgba(76, 77, 74, 0.88); 
+	border:3mm ridge rgba(255, 255, 255, 0.8);
+	padding: 6px 14px 12px 14px; 
+	margin:20px; 
+	color:#000000;
+}
+.m{
+	margin: 0 auto;
+	width: 100%
+}
+.a2{ 
+
+	color:rgb(219, 222, 58);
+	text-decoration: none ;
+	font-size: 35px; 
+}
+.p1{
+	text-align:left;
+	color: white;
+	font-size: 21px;
+}
+.a10{
+	color:rgb(12, 1, 127);
+	text-decoration: none
+}
+.a4{
+	color:rgb(199, 114, 34); ;
+	text-decoration:none ;
+
+}
+.mm{
+	margin: 0 auto;
+	width: 60%
+}
+.a5{
+	color:rgb(237, 198, 55); ;
+	text-decoration:none ;
+}
+@font-face {
+	font-family: "Serifiqo 4F Free Capitals";  
+	src: url("fonts/Serifiqo 4F Free Capitals.otf") format("truetype"); 
+	font-style: normal; 
+	font-weight: bold;
+} 
+.a10{
+	font-family: "Serifiqo 4F Free Capitals.otf";
+	font-size: 20px;
+
+}
